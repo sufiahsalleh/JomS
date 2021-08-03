@@ -11,7 +11,7 @@ BCS2243 - WEB ENGINEERING
 6. MOHD AIDIL BIN ZAIDAN (CB17031)
 <hr>
 <h1>JomS SYSTEM</h1> 
-JomS or JomSewa system that consists of 3 user which is Admin, Driver and Customer. This system is for customer to book a driver. This system is fully develop by using HTML, CSS, PHP, and MySQL.
+JomS or JomSewa system that consists of 3 user which is Admin, Driver and Customer. This system is for customer to book a driver or to rent a car. This system is fully develop by using HTML, CSS, PHP, and MySQL.
 <hr>
 <h1>PREVIEW</h1>
 <div align="left">
