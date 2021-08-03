@@ -8,6 +8,7 @@ BCS2243 - WEB ENGINEERING
 3. NORRULANNAH BINTI HASHIM (CB17023)<br>
 4. HARIZA AINA BINTI MOHD HARAFI (CB17178)<br>
 5. NOR SULEHHAYANA BINTI MOHAMMAD SALLEH (CB17011)<br>
+6. MOHD AIDIL BIN ZAIDAN (CB17031)
 <hr>
 <h1>JomS SYSTEM</h1> 
 JomS or JomSewa system that consists of 3 user which is Admin, Driver and Customer. This system is for customer to book a driver. This system is fully develop by using HTML, CSS, PHP, and MySQL.
