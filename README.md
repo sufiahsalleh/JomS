@@ -13,4 +13,10 @@ BCS2243 - WEB ENGINEERING
 JomS or JomSewa system that consists of 3 user which is Admin, Driver and Customer. This system is for customer to book a driver. This system is fully develop by using HTML, CSS, PHP, and MySQL.
 <hr>
 <h1>PREVIEW</h1>
-<image></images>
+<div align="left">
+    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/mainpage.png" width="600px"</img> 
+    <br>
+    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/customerprofile.png" width="600px"</img>
+    <br>
+    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/booking.png" width="600px"</img>
+</div>
